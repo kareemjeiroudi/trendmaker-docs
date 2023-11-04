@@ -1,5 +1,9 @@
 title: TrendMaker
 author: Kareem Jeiroudi
+site:
+  pages:
+    - Terms of Service
+    - Privacy Policy
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.

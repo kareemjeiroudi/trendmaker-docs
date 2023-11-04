@@ -6,7 +6,7 @@ author:
     name: Kareem Jeiroudi
     email: kareemjeiroudi@gmail.com
 city: Vienna
-date: 2023-11-04 05:09:16 +01:00
+date: 2023-11-04 05:09:16
 ---
 
 > Last updated: {{ page.date }}
