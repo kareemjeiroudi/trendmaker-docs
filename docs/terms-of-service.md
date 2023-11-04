@@ -1,8 +1,10 @@
-# TrendMaker App Terms of Service
+layout: page
+title: "Terms of Service"
+permalink: /terms-of-service
 
 > Last updated: 02:20 04.11.2023
 
-Please read these Terms of Service ("Terms") carefully before using the TrendMaker mobile application (the "App") operated by [TrendMaker] ("we," "us," or "our"). These Terms govern your access and use of the TrendMaker App.
+Please read these Terms of Service ("Terms") carefully before using the TrendMaker mobile application (the "App") operated by TrendMaker ("we," "us," or "our"). These Terms govern your access and use of the TrendMaker App.
 
 By accessing or using the TrendMaker App, you agree to comply with and be bound by these Terms. If you do not agree with these Terms, you may not use the TrendMaker App.
 
@@ -54,4 +56,4 @@ By using the TrendMaker App, you agree to these Terms and any updates or modific
 
 *These Terms of Service were last updated on the date specified at the top of this document.*
 
-[TrendMaker]
+> TrendMaker
