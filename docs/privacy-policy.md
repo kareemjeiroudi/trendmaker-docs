@@ -1,8 +1,16 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: /privacy-policy
+author:
+  name: Kareem Jeiroudi
+  email: kareemjeiroudi@gmail.com
+city: Vienna
+---
 
-> Last updated: 04:48 04.11.2023
+# {{ page.title }}
+
+> Last updated: {{ page.date }}
 
 TrendMaker ("we," "us," or "our") is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, disclose, and safeguard your personal information when you use the TrendMaker mobile application (the "App"). By accessing or using the TrendMaker App, you agree to the practices described in this Privacy Policy.
 
@@ -76,7 +84,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 ### 8. Contact Information
 
-If you have questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].
+If you have questions or concerns about this Privacy Policy, please contact us at {{ page.author.email }}.
 
 Thank you for using TrendMaker!
 

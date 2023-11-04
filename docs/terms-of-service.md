@@ -1,8 +1,16 @@
-layout: page
+---
 title: "Terms of Service"
+layout: page
 permalink: /terms-of-service
+author:
+    name: Kareem Jeiroudi
+    email: kareemjeiroudi@gmail.com
+city: Vienna
+---
 
-> Last updated: 02:20 04.11.2023
+# {{ page.title }}
+
+> Last updated: {{ page.date }}
 
 Please read these Terms of Service ("Terms") carefully before using the TrendMaker mobile application (the "App") operated by TrendMaker ("we," "us," or "our"). These Terms govern your access and use of the TrendMaker App.
 
@@ -50,7 +58,7 @@ We may revise these Terms from time to time. The most current version of the Ter
 
 ### 11. Contact Information
 
-If you have any questions or concerns about these Terms, please contact us at [Your Contact Information].
+If you have any questions or concerns about these Terms, please contact us at {{ page.author.email }}.
 
 By using the TrendMaker App, you agree to these Terms and any updates or modifications made to them. Thank you for using TrendMaker!
 
